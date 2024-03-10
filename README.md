@@ -2,10 +2,10 @@
 [Code](https://github.com/SoumyaO/airbnb-europe-price-prediction/blob/main/Group%2016_AML_final%20courswork.ipynb) | [Presentation](https://github.com/SoumyaO/airbnb-europe-price-prediction/blob/main/Group16_Presentation.pptx)
 
 ### Contributors
-[Linh Nguyen](https://github.com/jill-data)
-[Soumya Ogoti](https://github.com/SoumyaO)
-[Wenxu Tian](https://github.com/Wayne599)
-[Hang Su](https://github.com/Hangbiob)
+[Linh Nguyen](https://github.com/jill-data)  
+[Soumya Ogoti](https://github.com/SoumyaO)  
+[Wenxu Tian](https://github.com/Wayne599)  
+[Hang Su](https://github.com/Hangbiob)  
 [Chuqiao Xiao](https://github.com/XShawn1)
 
 ## Description
