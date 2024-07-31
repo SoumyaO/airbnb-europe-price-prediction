@@ -24,12 +24,16 @@ Different Machine Learning models to predict the airbnb prices are explored and 
 - Ridge Regression
 - Lasso Regression
 - Neural Networks: Multi Layer Perceptron
-- Neural Netowrks: Autoencoder
+- Neural Networks: Autoencoder
 
 Techniques such as feature selection, target variable log-transformation and hyperparameter tuning are employed to improve model performance.
 
 The neural networks were implemented using the Tensorflow framework and hyperparameter tuning was done using the KerasTuner library.
 
-Among the models the XGBoost model with feature selection stood out with the highest predictive accuracy due to its built-in feature selection and ability to capture non-linear relationships.
+Among the models the XGBoost model with top K features stood out with the highest predictive accuracy due to its ability to capture non-linear relationships.
 
 This analysis can be used to get insights into the pricing strategy based on identified significant features like number of bedrooms, location etc. Based on the importance of the attributes (feature importance), owners can focus on improving the aspects that have the most impact on the price and make valuable investment decisions to increase their return on investment.
+
+## Key Findings
+- Accommodations with private rooms, a higher number of bedrooms and being close to attractions command a premium price.
+- Accommodations in Barcelona have higher market demand.
